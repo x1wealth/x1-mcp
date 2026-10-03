@@ -3,8 +3,12 @@
   "name": "com.x1wealth/x1",
   "title": "X1 Wealth",
   "description": "Ask about your trusts, entities, policies and documents. Every answer cites a page or declines.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://x1wealth.com",
+  "repository": {
+    "url": "https://github.com/x1wealth/x1-mcp",
+    "source": "github"
+  },
   "icons": [
     {
       "src": "https://mcp.x1wealth.com/icon.png",
